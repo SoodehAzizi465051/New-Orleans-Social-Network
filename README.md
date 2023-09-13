@@ -40,7 +40,7 @@ HINCP: Household income in the past 12 months.
 
 **3. Edges**
 
-This file includes contacts between  individuals
+The files (Edges.part1,Edges.part2, and Edges.part3)  include  contacts between  individuals
 
 id1: ID of the person in contact
 
